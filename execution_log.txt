@@ -1,0 +1,35 @@
+
+Execution Log
+===============================
+
+Student Name : Fatima Asif
+Roll No      : 231980015
+Date         : 02-08-2026 17:03:25
+
+Environment
+-----------
+Platform           : Google Colab
+Operating System   : Linux
+Python Version     : 3.12.13
+Apache Spark       : 4.0.3
+
+Execution Summary
+-----------------
+[✓] Part 1 - Environment Setup
+[✓] Part 2 - Load Dataset
+[✓] Part 3 - Exploratory Data Analysis
+[✓] Part 4 - Data Cleaning
+[✓] Part 5 - Spark Transformations
+[✓] Part 6 - Spark SQL
+[✓] Part 7 - Window Functions
+[✓] Part 8 - Performance Optimization
+[✓] Part 9 - Spark UI Analysis
+
+Dataset Statistics
+------------------
+Total Records : 2964624
+Total Columns : 19
+
+Status
+------
+Execution Completed Successfully.
